@@ -1,4 +1,4 @@
-# LabBD_App: Sistema de Gerenciamento de Vagas e Currículos
+# LabBD_LinkedInApp: Sistema de Gerenciamento de Vagas e Currículos
 
 Este repositório contém o código-fonte de um aplicativo web para gerenciamento de vagas de emprego e currículos, desenvolvido como projeto para a disciplina de Laboratório de Banco de Dados. A aplicação é construída em Python usando a biblioteca Streamlit.
 
